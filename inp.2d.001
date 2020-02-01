@@ -1,0 +1,14 @@
+3000	//  maximum x-stencil size (n)
+30.0	//  length of calculation x-stencil (m)
+38	//  maximum y-stencil size (n)
+0.32	//  length of calculation y-stencil (m)
+35.0	//  initial density (kg/m3)
+0.0	//  initial x-velosity (m/s)
+0.0	//  initial y-velosity (m/s)
+3.0e+07	//  initial pressure (Pa)
+1.25	//  specific ratio of heat (-)
+0.3	//  Courant Number (-)
+1.0e-02	//  Epsilon
+0.2 	//  Rate Oblique (-)
+5000	//  output frequency
+500	//  output frequency
